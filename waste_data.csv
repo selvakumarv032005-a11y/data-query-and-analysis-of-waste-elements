@@ -1,0 +1,736 @@
+Date,Ward/Area,Waste_Type,Quantity_kg,Source
+01-05-2025,Ward 1,Biodegradable,1924,Household
+01-05-2025,Ward 1,Plastic,1838,Industrial
+01-05-2025,Ward 1,Paper,666,Commercial
+01-05-2025,Ward 2,Glass,1071,Institutional
+01-05-2025,Ward 2,Plastic,330,Industrial
+01-05-2025,Ward 2,Biodegradable,1532,Industrial
+01-05-2025,Ward 3,Glass,659,Industrial
+01-05-2025,Ward 3,Metal Waste,221,Household
+01-05-2025,Ward 3,Biodegradable,947,Household
+01-05-2025,Ward 4,Paper,1699,Institutional
+01-05-2025,Ward 4,Plastic,1175,Commercial
+01-05-2025,Ward 4,E-Waste,389,Industrial
+01-05-2025,Ward 5,Biodegradable,1031,Household
+01-05-2025,Ward 5,Plastic,1354,Household
+01-05-2025,Ward 5,Glass,846,Household
+01-12-2025,Ward 1,Metal Waste,213,Industrial
+01-12-2025,Ward 1,Glass,976,Industrial
+01-12-2025,Ward 1,Paper,764,Industrial
+01-12-2025,Ward 2,Biodegradable,708,Institutional
+01-12-2025,Ward 2,Plastic,234,Industrial
+01-12-2025,Ward 2,Glass,1304,Institutional
+01-12-2025,Ward 3,Biodegradable,765,Industrial
+01-12-2025,Ward 3,Metal Waste,1995,Industrial
+01-12-2025,Ward 3,Glass,1700,Commercial
+01-12-2025,Ward 4,Biodegradable,1195,Industrial
+01-12-2025,Ward 4,Metal Waste,1015,Commercial
+01-12-2025,Ward 4,Glass,655,Industrial
+01-12-2025,Ward 5,Metal Waste,1972,Industrial
+01-12-2025,Ward 5,Paper,1078,Household
+01-12-2025,Ward 5,Glass,991,Industrial
+01-19-2025,Ward 1,Plastic,1380,Commercial
+01-19-2025,Ward 1,Metal Waste,264,Household
+01-19-2025,Ward 1,Paper,720,Institutional
+01-19-2025,Ward 2,Plastic,1722,Household
+01-19-2025,Ward 2,Paper,591,Commercial
+01-19-2025,Ward 2,Metal Waste,618,Household
+01-19-2025,Ward 3,Biodegradable,240,Institutional
+01-19-2025,Ward 3,E-Waste,334,Household
+01-19-2025,Ward 3,Paper,979,Industrial
+01-19-2025,Ward 4,E-Waste,1770,Household
+01-19-2025,Ward 4,Paper,1962,Household
+01-19-2025,Ward 4,Plastic,1685,Commercial
+01-19-2025,Ward 5,E-Waste,597,Commercial
+01-19-2025,Ward 5,Paper,994,Household
+01-19-2025,Ward 5,Metal Waste,406,Commercial
+01-26-2025,Ward 1,Glass,1798,Institutional
+01-26-2025,Ward 1,Metal Waste,942,Household
+01-26-2025,Ward 1,Biodegradable,763,Household
+01-26-2025,Ward 2,Plastic,1878,Commercial
+01-26-2025,Ward 2,Biodegradable,740,Institutional
+01-26-2025,Ward 2,Paper,724,Institutional
+01-26-2025,Ward 3,Biodegradable,756,Industrial
+01-26-2025,Ward 3,Glass,1212,Industrial
+01-26-2025,Ward 3,E-Waste,995,Institutional
+01-26-2025,Ward 4,Biodegradable,1554,Institutional
+01-26-2025,Ward 4,Metal Waste,1729,Commercial
+01-26-2025,Ward 4,Plastic,1571,Household
+01-26-2025,Ward 5,Plastic,832,Institutional
+01-26-2025,Ward 5,Metal Waste,1172,Household
+01-26-2025,Ward 5,E-Waste,1482,Commercial
+02-02-2025,Ward 1,Glass,1448,Commercial
+02-02-2025,Ward 1,E-Waste,1457,Institutional
+02-02-2025,Ward 1,Plastic,863,Commercial
+02-02-2025,Ward 2,Paper,1720,Industrial
+02-02-2025,Ward 2,Plastic,763,Institutional
+02-02-2025,Ward 2,Glass,1733,Commercial
+02-02-2025,Ward 3,Paper,1151,Household
+02-02-2025,Ward 3,Glass,898,Household
+02-02-2025,Ward 3,E-Waste,201,Industrial
+02-02-2025,Ward 4,Plastic,1626,Industrial
+02-02-2025,Ward 4,Metal Waste,1353,Household
+02-02-2025,Ward 4,Biodegradable,1907,Industrial
+02-02-2025,Ward 5,Biodegradable,322,Household
+02-02-2025,Ward 5,Plastic,966,Industrial
+02-02-2025,Ward 5,Glass,479,Household
+02-09-2025,Ward 1,Metal Waste,1734,Institutional
+02-09-2025,Ward 1,Biodegradable,343,Household
+02-09-2025,Ward 1,Paper,1424,Institutional
+02-09-2025,Ward 2,Biodegradable,602,Industrial
+02-09-2025,Ward 2,Plastic,1734,Commercial
+02-09-2025,Ward 2,E-Waste,1371,Institutional
+02-09-2025,Ward 3,Paper,1071,Household
+02-09-2025,Ward 3,Plastic,672,Industrial
+02-09-2025,Ward 3,Metal Waste,350,Commercial
+02-09-2025,Ward 4,Biodegradable,343,Industrial
+02-09-2025,Ward 4,Glass,823,Household
+02-09-2025,Ward 4,E-Waste,1795,Household
+02-09-2025,Ward 5,Glass,652,Household
+02-09-2025,Ward 5,Metal Waste,1383,Commercial
+02-09-2025,Ward 5,Paper,1214,Household
+02-16-2025,Ward 1,Paper,351,Industrial
+02-16-2025,Ward 1,Plastic,1343,Household
+02-16-2025,Ward 1,E-Waste,827,Commercial
+02-16-2025,Ward 2,Metal Waste,1335,Industrial
+02-16-2025,Ward 2,Paper,1696,Commercial
+02-16-2025,Ward 2,Glass,352,Household
+02-16-2025,Ward 3,Metal Waste,1943,Household
+02-16-2025,Ward 3,Biodegradable,1904,Institutional
+02-16-2025,Ward 3,E-Waste,360,Institutional
+02-16-2025,Ward 4,Plastic,600,Institutional
+02-16-2025,Ward 4,Paper,1256,Institutional
+02-16-2025,Ward 4,Metal Waste,659,Commercial
+02-16-2025,Ward 5,Biodegradable,1506,Commercial
+02-16-2025,Ward 5,E-Waste,425,Household
+02-16-2025,Ward 5,Plastic,997,Household
+02-23-2025,Ward 1,Metal Waste,858,Institutional
+02-23-2025,Ward 1,Plastic,746,Institutional
+02-23-2025,Ward 1,Paper,1272,Institutional
+02-23-2025,Ward 2,Metal Waste,1269,Household
+02-23-2025,Ward 2,Paper,717,Commercial
+02-23-2025,Ward 2,Plastic,1968,Household
+02-23-2025,Ward 3,E-Waste,1322,Institutional
+02-23-2025,Ward 3,Metal Waste,1192,Institutional
+02-23-2025,Ward 3,Paper,390,Household
+02-23-2025,Ward 4,Paper,217,Household
+02-23-2025,Ward 4,Plastic,1958,Industrial
+02-23-2025,Ward 4,Metal Waste,769,Commercial
+02-23-2025,Ward 5,Biodegradable,1886,Industrial
+02-23-2025,Ward 5,Glass,1862,Commercial
+02-23-2025,Ward 5,Metal Waste,689,Industrial
+03-02-2025,Ward 1,Paper,445,Institutional
+03-02-2025,Ward 1,Metal Waste,1262,Household
+03-02-2025,Ward 1,Glass,1905,Commercial
+03-02-2025,Ward 2,Glass,724,Institutional
+03-02-2025,Ward 2,E-Waste,1729,Commercial
+03-02-2025,Ward 2,Biodegradable,235,Household
+03-02-2025,Ward 3,Glass,853,Institutional
+03-02-2025,Ward 3,Metal Waste,670,Commercial
+03-02-2025,Ward 3,Plastic,1315,Industrial
+03-02-2025,Ward 4,Glass,1413,Household
+03-02-2025,Ward 4,E-Waste,349,Industrial
+03-02-2025,Ward 4,Paper,769,Industrial
+03-02-2025,Ward 5,Metal Waste,1277,Commercial
+03-02-2025,Ward 5,Paper,643,Household
+03-02-2025,Ward 5,Glass,1192,Institutional
+03-09-2025,Ward 1,Plastic,1419,Industrial
+03-09-2025,Ward 1,Metal Waste,1076,Institutional
+03-09-2025,Ward 1,Biodegradable,1083,Industrial
+03-09-2025,Ward 2,Paper,835,Industrial
+03-09-2025,Ward 2,Plastic,1893,Commercial
+03-09-2025,Ward 2,Biodegradable,856,Institutional
+03-09-2025,Ward 3,Biodegradable,940,Industrial
+03-09-2025,Ward 3,Glass,316,Industrial
+03-09-2025,Ward 3,Paper,990,Commercial
+03-09-2025,Ward 4,Metal Waste,833,Household
+03-09-2025,Ward 4,Plastic,1974,Industrial
+03-09-2025,Ward 4,Glass,1319,Industrial
+03-09-2025,Ward 5,Plastic,1096,Institutional
+03-09-2025,Ward 5,Metal Waste,1412,Commercial
+03-09-2025,Ward 5,Glass,903,Commercial
+03-16-2025,Ward 1,Biodegradable,353,Institutional
+03-16-2025,Ward 1,Plastic,1658,Household
+03-16-2025,Ward 1,E-Waste,1309,Household
+03-16-2025,Ward 2,Plastic,293,Industrial
+03-16-2025,Ward 2,Paper,1157,Institutional
+03-16-2025,Ward 2,Metal Waste,652,Institutional
+03-16-2025,Ward 3,Glass,1835,Household
+03-16-2025,Ward 3,Metal Waste,1477,Industrial
+03-16-2025,Ward 3,Biodegradable,556,Commercial
+03-16-2025,Ward 4,Metal Waste,1001,Institutional
+03-16-2025,Ward 4,E-Waste,1446,Industrial
+03-16-2025,Ward 4,Biodegradable,961,Commercial
+03-16-2025,Ward 5,Paper,715,Institutional
+03-16-2025,Ward 5,Metal Waste,991,Institutional
+03-16-2025,Ward 5,Glass,1982,Industrial
+03-23-2025,Ward 1,Paper,1887,Institutional
+03-23-2025,Ward 1,Plastic,889,Commercial
+03-23-2025,Ward 1,Metal Waste,579,Household
+03-23-2025,Ward 2,Plastic,1491,Commercial
+03-23-2025,Ward 2,Paper,1800,Household
+03-23-2025,Ward 2,E-Waste,1391,Industrial
+03-23-2025,Ward 3,Paper,1830,Industrial
+03-23-2025,Ward 3,Plastic,1476,Commercial
+03-23-2025,Ward 3,Glass,953,Commercial
+03-23-2025,Ward 4,Metal Waste,1169,Industrial
+03-23-2025,Ward 4,Glass,1221,Industrial
+03-23-2025,Ward 4,Paper,314,Household
+03-23-2025,Ward 5,Metal Waste,1298,Household
+03-23-2025,Ward 5,Paper,1599,Institutional
+03-23-2025,Ward 5,Glass,928,Household
+03-30-2025,Ward 1,Metal Waste,656,Institutional
+03-30-2025,Ward 1,Paper,391,Commercial
+03-30-2025,Ward 1,Plastic,1912,Commercial
+03-30-2025,Ward 2,Paper,1887,Commercial
+03-30-2025,Ward 2,Glass,1413,Institutional
+03-30-2025,Ward 2,Metal Waste,236,Institutional
+03-30-2025,Ward 3,Plastic,1072,Industrial
+03-30-2025,Ward 3,E-Waste,1496,Household
+03-30-2025,Ward 3,Paper,261,Institutional
+03-30-2025,Ward 4,Plastic,1835,Institutional
+03-30-2025,Ward 4,Paper,644,Household
+03-30-2025,Ward 4,E-Waste,275,Household
+03-30-2025,Ward 5,Glass,343,Household
+03-30-2025,Ward 5,Biodegradable,1292,Commercial
+03-30-2025,Ward 5,Plastic,595,Household
+04-06-2025,Ward 1,Plastic,1367,Household
+04-06-2025,Ward 1,Glass,1262,Household
+04-06-2025,Ward 1,Paper,1916,Industrial
+04-06-2025,Ward 2,Glass,932,Commercial
+04-06-2025,Ward 2,E-Waste,857,Commercial
+04-06-2025,Ward 2,Metal Waste,787,Household
+04-06-2025,Ward 3,Glass,1453,Commercial
+04-06-2025,Ward 3,Metal Waste,1397,Household
+04-06-2025,Ward 3,Biodegradable,1391,Industrial
+04-06-2025,Ward 4,Paper,1740,Household
+04-06-2025,Ward 4,E-Waste,1388,Industrial
+04-06-2025,Ward 4,Glass,538,Institutional
+04-06-2025,Ward 5,E-Waste,1550,Household
+04-06-2025,Ward 5,Metal Waste,1524,Institutional
+04-06-2025,Ward 5,Paper,1293,Institutional
+04-13-2025,Ward 1,Paper,290,Industrial
+04-13-2025,Ward 1,Biodegradable,1754,Commercial
+04-13-2025,Ward 1,Plastic,1349,Commercial
+04-13-2025,Ward 2,Biodegradable,1883,Institutional
+04-13-2025,Ward 2,Metal Waste,655,Household
+04-13-2025,Ward 2,E-Waste,1094,Household
+04-13-2025,Ward 3,Glass,1414,Institutional
+04-13-2025,Ward 3,E-Waste,1592,Household
+04-13-2025,Ward 3,Plastic,1023,Household
+04-13-2025,Ward 4,Biodegradable,884,Institutional
+04-13-2025,Ward 4,Metal Waste,372,Household
+04-13-2025,Ward 4,E-Waste,1014,Household
+04-13-2025,Ward 5,E-Waste,1450,Commercial
+04-13-2025,Ward 5,Plastic,1755,Household
+04-13-2025,Ward 5,Biodegradable,1625,Commercial
+04-20-2025,Ward 1,E-Waste,1736,Household
+04-20-2025,Ward 1,Glass,1789,Industrial
+04-20-2025,Ward 1,Metal Waste,1482,Institutional
+04-20-2025,Ward 2,Paper,983,Institutional
+04-20-2025,Ward 2,Glass,557,Institutional
+04-20-2025,Ward 2,Plastic,1631,Institutional
+04-20-2025,Ward 3,Biodegradable,897,Institutional
+04-20-2025,Ward 3,Metal Waste,1401,Institutional
+04-20-2025,Ward 3,Paper,931,Household
+04-20-2025,Ward 4,Paper,1158,Household
+04-20-2025,Ward 4,Plastic,1424,Household
+04-20-2025,Ward 4,Metal Waste,1947,Household
+04-20-2025,Ward 5,Metal Waste,1476,Industrial
+04-20-2025,Ward 5,Paper,1817,Commercial
+04-20-2025,Ward 5,Plastic,455,Household
+04-27-2025,Ward 1,Paper,1474,Household
+04-27-2025,Ward 1,Metal Waste,1228,Commercial
+04-27-2025,Ward 1,E-Waste,1215,Household
+04-27-2025,Ward 2,E-Waste,1052,Industrial
+04-27-2025,Ward 2,Glass,262,Household
+04-27-2025,Ward 2,Metal Waste,1026,Commercial
+04-27-2025,Ward 3,Metal Waste,1322,Commercial
+04-27-2025,Ward 3,E-Waste,584,Household
+04-27-2025,Ward 3,Plastic,1022,Industrial
+04-27-2025,Ward 4,Plastic,970,Household
+04-27-2025,Ward 4,Paper,1246,Household
+04-27-2025,Ward 4,Metal Waste,1788,Household
+04-27-2025,Ward 5,Glass,1301,Household
+04-27-2025,Ward 5,E-Waste,200,Commercial
+04-27-2025,Ward 5,Biodegradable,884,Household
+05-04-2025,Ward 1,Paper,294,Institutional
+05-04-2025,Ward 1,Metal Waste,1774,Industrial
+05-04-2025,Ward 1,Plastic,449,Industrial
+05-04-2025,Ward 2,Biodegradable,1277,Institutional
+05-04-2025,Ward 2,E-Waste,588,Industrial
+05-04-2025,Ward 2,Plastic,1957,Commercial
+05-04-2025,Ward 3,Plastic,1118,Commercial
+05-04-2025,Ward 3,Glass,1452,Household
+05-04-2025,Ward 3,Metal Waste,777,Commercial
+05-04-2025,Ward 4,Biodegradable,297,Industrial
+05-04-2025,Ward 4,Paper,997,Commercial
+05-04-2025,Ward 4,Glass,1058,Commercial
+05-04-2025,Ward 5,Metal Waste,1183,Commercial
+05-04-2025,Ward 5,Glass,1219,Industrial
+05-04-2025,Ward 5,Paper,958,Industrial
+05-11-2025,Ward 1,Paper,337,Institutional
+05-11-2025,Ward 1,Plastic,1624,Industrial
+05-11-2025,Ward 1,E-Waste,984,Institutional
+05-11-2025,Ward 2,Metal Waste,1673,Household
+05-11-2025,Ward 2,Biodegradable,325,Commercial
+05-11-2025,Ward 2,Paper,242,Institutional
+05-11-2025,Ward 3,Plastic,1406,Institutional
+05-11-2025,Ward 3,E-Waste,294,Commercial
+05-11-2025,Ward 3,Biodegradable,1597,Institutional
+05-11-2025,Ward 4,Plastic,1418,Commercial
+05-11-2025,Ward 4,Metal Waste,292,Institutional
+05-11-2025,Ward 4,Biodegradable,260,Industrial
+05-11-2025,Ward 5,Glass,803,Industrial
+05-11-2025,Ward 5,Plastic,733,Household
+05-11-2025,Ward 5,E-Waste,1037,Household
+05-18-2025,Ward 1,Paper,745,Household
+05-18-2025,Ward 1,Metal Waste,1301,Industrial
+05-18-2025,Ward 1,Plastic,1296,Industrial
+05-18-2025,Ward 2,Glass,549,Commercial
+05-18-2025,Ward 2,E-Waste,1030,Institutional
+05-18-2025,Ward 2,Metal Waste,1796,Household
+05-18-2025,Ward 3,Paper,1476,Institutional
+05-18-2025,Ward 3,Metal Waste,918,Commercial
+05-18-2025,Ward 3,Glass,838,Institutional
+05-18-2025,Ward 4,Biodegradable,1439,Industrial
+05-18-2025,Ward 4,Glass,564,Industrial
+05-18-2025,Ward 4,Metal Waste,725,Commercial
+05-18-2025,Ward 5,Biodegradable,562,Commercial
+05-18-2025,Ward 5,Plastic,1731,Household
+05-18-2025,Ward 5,E-Waste,1497,Industrial
+05-25-2025,Ward 1,Biodegradable,1854,Household
+05-25-2025,Ward 1,Plastic,227,Industrial
+05-25-2025,Ward 1,E-Waste,1262,Household
+05-25-2025,Ward 2,E-Waste,1748,Institutional
+05-25-2025,Ward 2,Metal Waste,224,Institutional
+05-25-2025,Ward 2,Paper,1617,Commercial
+05-25-2025,Ward 3,Paper,310,Industrial
+05-25-2025,Ward 3,E-Waste,233,Commercial
+05-25-2025,Ward 3,Metal Waste,1999,Institutional
+05-25-2025,Ward 4,Glass,812,Industrial
+05-25-2025,Ward 4,Paper,891,Industrial
+05-25-2025,Ward 4,Plastic,1543,Industrial
+05-25-2025,Ward 5,Glass,1600,Household
+05-25-2025,Ward 5,E-Waste,1660,Industrial
+05-25-2025,Ward 5,Plastic,476,Industrial
+06-01-2025,Ward 1,Biodegradable,549,Commercial
+06-01-2025,Ward 1,Glass,1887,Commercial
+06-01-2025,Ward 1,Metal Waste,1360,Commercial
+06-01-2025,Ward 2,E-Waste,1119,Commercial
+06-01-2025,Ward 2,Plastic,205,Industrial
+06-01-2025,Ward 2,Biodegradable,667,Institutional
+06-01-2025,Ward 3,Biodegradable,1080,Industrial
+06-01-2025,Ward 3,Glass,703,Industrial
+06-01-2025,Ward 3,Plastic,1146,Industrial
+06-01-2025,Ward 4,Paper,1249,Commercial
+06-01-2025,Ward 4,Glass,372,Institutional
+06-01-2025,Ward 4,E-Waste,1868,Industrial
+06-01-2025,Ward 5,Glass,312,Institutional
+06-01-2025,Ward 5,Paper,758,Household
+06-01-2025,Ward 5,Biodegradable,289,Industrial
+06-08-2025,Ward 1,E-Waste,1044,Commercial
+06-08-2025,Ward 1,Biodegradable,458,Household
+06-08-2025,Ward 1,Metal Waste,1101,Industrial
+06-08-2025,Ward 2,Biodegradable,1097,Household
+06-08-2025,Ward 2,E-Waste,1391,Industrial
+06-08-2025,Ward 2,Paper,1819,Household
+06-08-2025,Ward 3,Plastic,1110,Institutional
+06-08-2025,Ward 3,Metal Waste,1773,Commercial
+06-08-2025,Ward 3,E-Waste,1642,Industrial
+06-08-2025,Ward 4,Paper,575,Commercial
+06-08-2025,Ward 4,Metal Waste,1360,Industrial
+06-08-2025,Ward 4,E-Waste,787,Commercial
+06-08-2025,Ward 5,Glass,1572,Institutional
+06-08-2025,Ward 5,Paper,1072,Household
+06-08-2025,Ward 5,Plastic,469,Institutional
+06-15-2025,Ward 1,Plastic,1050,Commercial
+06-15-2025,Ward 1,Glass,277,Industrial
+06-15-2025,Ward 1,E-Waste,773,Institutional
+06-15-2025,Ward 2,Metal Waste,495,Institutional
+06-15-2025,Ward 2,E-Waste,1518,Institutional
+06-15-2025,Ward 2,Paper,1749,Institutional
+06-15-2025,Ward 3,E-Waste,774,Commercial
+06-15-2025,Ward 3,Paper,1192,Household
+06-15-2025,Ward 3,Biodegradable,344,Household
+06-15-2025,Ward 4,Paper,397,Industrial
+06-15-2025,Ward 4,Biodegradable,778,Commercial
+06-15-2025,Ward 4,Metal Waste,1402,Institutional
+06-15-2025,Ward 5,Paper,1512,Institutional
+06-15-2025,Ward 5,Biodegradable,677,Commercial
+06-15-2025,Ward 5,Glass,1122,Institutional
+06-22-2025,Ward 1,Plastic,1634,Commercial
+06-22-2025,Ward 1,Metal Waste,488,Industrial
+06-22-2025,Ward 1,E-Waste,395,Industrial
+06-22-2025,Ward 2,E-Waste,1064,Industrial
+06-22-2025,Ward 2,Glass,1005,Household
+06-22-2025,Ward 2,Metal Waste,1382,Commercial
+06-22-2025,Ward 3,Plastic,1871,Household
+06-22-2025,Ward 3,Biodegradable,1380,Commercial
+06-22-2025,Ward 3,Metal Waste,523,Institutional
+06-22-2025,Ward 4,Paper,954,Institutional
+06-22-2025,Ward 4,Biodegradable,1515,Industrial
+06-22-2025,Ward 4,E-Waste,1506,Household
+06-22-2025,Ward 5,Biodegradable,749,Industrial
+06-22-2025,Ward 5,Glass,911,Commercial
+06-22-2025,Ward 5,Paper,1014,Industrial
+06-29-2025,Ward 1,Glass,1839,Industrial
+06-29-2025,Ward 1,Biodegradable,1433,Household
+06-29-2025,Ward 1,Plastic,1192,Commercial
+06-29-2025,Ward 2,Glass,326,Industrial
+06-29-2025,Ward 2,Plastic,1208,Institutional
+06-29-2025,Ward 2,Biodegradable,1601,Household
+06-29-2025,Ward 3,E-Waste,1520,Industrial
+06-29-2025,Ward 3,Glass,978,Commercial
+06-29-2025,Ward 3,Plastic,1992,Industrial
+06-29-2025,Ward 4,Biodegradable,1405,Commercial
+06-29-2025,Ward 4,Metal Waste,1024,Household
+06-29-2025,Ward 4,E-Waste,766,Commercial
+06-29-2025,Ward 5,Metal Waste,1659,Household
+06-29-2025,Ward 5,Plastic,316,Industrial
+06-29-2025,Ward 5,E-Waste,1136,Commercial
+07-06-2025,Ward 1,Glass,585,Commercial
+07-06-2025,Ward 1,Paper,1433,Commercial
+07-06-2025,Ward 1,Metal Waste,617,Commercial
+07-06-2025,Ward 2,Plastic,1405,Institutional
+07-06-2025,Ward 2,Paper,224,Commercial
+07-06-2025,Ward 2,E-Waste,1403,Industrial
+07-06-2025,Ward 3,Plastic,1202,Industrial
+07-06-2025,Ward 3,Metal Waste,865,Institutional
+07-06-2025,Ward 3,E-Waste,1692,Household
+07-06-2025,Ward 4,Metal Waste,1853,Industrial
+07-06-2025,Ward 4,Plastic,675,Commercial
+07-06-2025,Ward 4,Glass,1924,Institutional
+07-06-2025,Ward 5,Metal Waste,414,Commercial
+07-06-2025,Ward 5,Plastic,1151,Commercial
+07-06-2025,Ward 5,Glass,1541,Institutional
+07-13-2025,Ward 1,Plastic,485,Institutional
+07-13-2025,Ward 1,Metal Waste,1647,Commercial
+07-13-2025,Ward 1,E-Waste,217,Household
+07-13-2025,Ward 2,Biodegradable,701,Institutional
+07-13-2025,Ward 2,E-Waste,1336,Industrial
+07-13-2025,Ward 2,Plastic,1445,Industrial
+07-13-2025,Ward 3,Plastic,1866,Institutional
+07-13-2025,Ward 3,Paper,977,Industrial
+07-13-2025,Ward 3,Glass,361,Institutional
+07-13-2025,Ward 4,Metal Waste,1572,Institutional
+07-13-2025,Ward 4,Paper,1032,Household
+07-13-2025,Ward 4,Plastic,958,Commercial
+07-13-2025,Ward 5,Paper,1462,Household
+07-13-2025,Ward 5,Biodegradable,778,Commercial
+07-13-2025,Ward 5,Plastic,1832,Institutional
+07-20-2025,Ward 1,Biodegradable,1343,Industrial
+07-20-2025,Ward 1,Glass,690,Institutional
+07-20-2025,Ward 1,Paper,651,Institutional
+07-20-2025,Ward 2,E-Waste,1143,Industrial
+07-20-2025,Ward 2,Biodegradable,206,Industrial
+07-20-2025,Ward 2,Metal Waste,974,Household
+07-20-2025,Ward 3,Plastic,1771,Household
+07-20-2025,Ward 3,Paper,899,Industrial
+07-20-2025,Ward 3,Biodegradable,713,Household
+07-20-2025,Ward 4,Paper,1609,Commercial
+07-20-2025,Ward 4,Biodegradable,670,Commercial
+07-20-2025,Ward 4,Plastic,595,Institutional
+07-20-2025,Ward 5,Metal Waste,1449,Household
+07-20-2025,Ward 5,Biodegradable,1139,Commercial
+07-20-2025,Ward 5,E-Waste,1723,Industrial
+07-27-2025,Ward 1,Metal Waste,1381,Institutional
+07-27-2025,Ward 1,Plastic,258,Industrial
+07-27-2025,Ward 1,Biodegradable,1950,Institutional
+07-27-2025,Ward 2,E-Waste,720,Institutional
+07-27-2025,Ward 2,Glass,436,Household
+07-27-2025,Ward 2,Paper,1582,Household
+07-27-2025,Ward 3,Biodegradable,228,Household
+07-27-2025,Ward 3,Glass,809,Commercial
+07-27-2025,Ward 3,E-Waste,1004,Commercial
+07-27-2025,Ward 4,Metal Waste,1579,Household
+07-27-2025,Ward 4,Glass,1133,Industrial
+07-27-2025,Ward 4,Biodegradable,1240,Household
+07-27-2025,Ward 5,Glass,541,Household
+07-27-2025,Ward 5,Paper,226,Household
+07-27-2025,Ward 5,Metal Waste,1510,Industrial
+08-03-2025,Ward 1,Glass,1020,Commercial
+08-03-2025,Ward 1,Paper,1105,Household
+08-03-2025,Ward 1,Biodegradable,1624,Industrial
+08-03-2025,Ward 2,Biodegradable,1799,Industrial
+08-03-2025,Ward 2,Metal Waste,1219,Industrial
+08-03-2025,Ward 2,Paper,1586,Household
+08-03-2025,Ward 3,Biodegradable,228,Household
+08-03-2025,Ward 3,Plastic,1519,Commercial
+08-03-2025,Ward 3,Paper,1735,Institutional
+08-03-2025,Ward 4,Paper,297,Commercial
+08-03-2025,Ward 4,Plastic,822,Institutional
+08-03-2025,Ward 4,E-Waste,957,Industrial
+08-03-2025,Ward 5,Paper,1690,Commercial
+08-03-2025,Ward 5,E-Waste,1467,Commercial
+08-03-2025,Ward 5,Metal Waste,1157,Commercial
+08-10-2025,Ward 1,Paper,1673,Household
+08-10-2025,Ward 1,E-Waste,272,Household
+08-10-2025,Ward 1,Biodegradable,495,Household
+08-10-2025,Ward 2,E-Waste,241,Household
+08-10-2025,Ward 2,Plastic,1262,Commercial
+08-10-2025,Ward 2,Metal Waste,330,Industrial
+08-10-2025,Ward 3,Biodegradable,301,Industrial
+08-10-2025,Ward 3,Plastic,723,Commercial
+08-10-2025,Ward 3,Metal Waste,1836,Institutional
+08-10-2025,Ward 4,Plastic,529,Household
+08-10-2025,Ward 4,Glass,1720,Commercial
+08-10-2025,Ward 4,E-Waste,211,Industrial
+08-10-2025,Ward 5,Plastic,573,Institutional
+08-10-2025,Ward 5,E-Waste,909,Institutional
+08-10-2025,Ward 5,Paper,1760,Industrial
+08-17-2025,Ward 1,Paper,688,Household
+08-17-2025,Ward 1,Plastic,1761,Commercial
+08-17-2025,Ward 1,Glass,1511,Industrial
+08-17-2025,Ward 2,E-Waste,590,Industrial
+08-17-2025,Ward 2,Metal Waste,534,Household
+08-17-2025,Ward 2,Glass,1742,Household
+08-17-2025,Ward 3,Glass,793,Commercial
+08-17-2025,Ward 3,Biodegradable,1189,Institutional
+08-17-2025,Ward 3,E-Waste,1134,Commercial
+08-17-2025,Ward 4,E-Waste,1749,Commercial
+08-17-2025,Ward 4,Biodegradable,1375,Commercial
+08-17-2025,Ward 4,Glass,819,Institutional
+08-17-2025,Ward 5,Paper,1135,Industrial
+08-17-2025,Ward 5,E-Waste,382,Commercial
+08-17-2025,Ward 5,Biodegradable,563,Commercial
+08-24-2025,Ward 1,Metal Waste,1620,Industrial
+08-24-2025,Ward 1,Glass,1384,Institutional
+08-24-2025,Ward 1,Plastic,692,Industrial
+08-24-2025,Ward 2,Biodegradable,745,Industrial
+08-24-2025,Ward 2,Glass,450,Commercial
+08-24-2025,Ward 2,Paper,1364,Industrial
+08-24-2025,Ward 3,Biodegradable,228,Industrial
+08-24-2025,Ward 3,E-Waste,676,Industrial
+08-24-2025,Ward 3,Plastic,444,Institutional
+08-24-2025,Ward 4,Glass,1125,Household
+08-24-2025,Ward 4,Plastic,1582,Institutional
+08-24-2025,Ward 4,Paper,588,Household
+08-24-2025,Ward 5,E-Waste,575,Industrial
+08-24-2025,Ward 5,Plastic,523,Industrial
+08-24-2025,Ward 5,Glass,492,Household
+08-31-2025,Ward 1,E-Waste,598,Household
+08-31-2025,Ward 1,Paper,1567,Institutional
+08-31-2025,Ward 1,Metal Waste,1363,Commercial
+08-31-2025,Ward 2,Paper,1603,Industrial
+08-31-2025,Ward 2,Metal Waste,1006,Institutional
+08-31-2025,Ward 2,E-Waste,1542,Industrial
+08-31-2025,Ward 3,E-Waste,763,Institutional
+08-31-2025,Ward 3,Paper,1794,Institutional
+08-31-2025,Ward 3,Biodegradable,1883,Household
+08-31-2025,Ward 4,E-Waste,1553,Commercial
+08-31-2025,Ward 4,Plastic,425,Household
+08-31-2025,Ward 4,Biodegradable,417,Household
+08-31-2025,Ward 5,E-Waste,1996,Industrial
+08-31-2025,Ward 5,Paper,1270,Commercial
+08-31-2025,Ward 5,Glass,888,Household
+09-07-2025,Ward 1,Glass,1713,Commercial
+09-07-2025,Ward 1,Paper,889,Industrial
+09-07-2025,Ward 1,Biodegradable,261,Household
+09-07-2025,Ward 2,Glass,1092,Commercial
+09-07-2025,Ward 2,E-Waste,1312,Household
+09-07-2025,Ward 2,Biodegradable,779,Industrial
+09-07-2025,Ward 3,E-Waste,1546,Commercial
+09-07-2025,Ward 3,Paper,1187,Household
+09-07-2025,Ward 3,Biodegradable,1872,Commercial
+09-07-2025,Ward 4,Metal Waste,1686,Institutional
+09-07-2025,Ward 4,Paper,1760,Household
+09-07-2025,Ward 4,Glass,1618,Commercial
+09-07-2025,Ward 5,Biodegradable,1474,Household
+09-07-2025,Ward 5,Glass,1399,Industrial
+09-07-2025,Ward 5,Paper,1113,Industrial
+09-14-2025,Ward 1,Metal Waste,1172,Household
+09-14-2025,Ward 1,Plastic,1337,Institutional
+09-14-2025,Ward 1,Biodegradable,1524,Institutional
+09-14-2025,Ward 2,E-Waste,1791,Institutional
+09-14-2025,Ward 2,Biodegradable,239,Commercial
+09-14-2025,Ward 2,Plastic,1972,Household
+09-14-2025,Ward 3,Plastic,1794,Institutional
+09-14-2025,Ward 3,Glass,1904,Household
+09-14-2025,Ward 3,Biodegradable,562,Household
+09-14-2025,Ward 4,E-Waste,621,Institutional
+09-14-2025,Ward 4,Paper,206,Household
+09-14-2025,Ward 4,Metal Waste,1970,Household
+09-14-2025,Ward 5,Paper,625,Industrial
+09-14-2025,Ward 5,Glass,871,Commercial
+09-14-2025,Ward 5,E-Waste,1660,Industrial
+09-21-2025,Ward 1,Metal Waste,1747,Commercial
+09-21-2025,Ward 1,Biodegradable,1447,Household
+09-21-2025,Ward 1,Glass,1269,Commercial
+09-21-2025,Ward 2,E-Waste,899,Institutional
+09-21-2025,Ward 2,Plastic,1055,Household
+09-21-2025,Ward 2,Metal Waste,874,Institutional
+09-21-2025,Ward 3,Biodegradable,1456,Institutional
+09-21-2025,Ward 3,E-Waste,1193,Commercial
+09-21-2025,Ward 3,Glass,1635,Institutional
+09-21-2025,Ward 4,E-Waste,1115,Institutional
+09-21-2025,Ward 4,Metal Waste,683,Industrial
+09-21-2025,Ward 4,Plastic,1547,Commercial
+09-21-2025,Ward 5,Metal Waste,1085,Household
+09-21-2025,Ward 5,Glass,221,Industrial
+09-21-2025,Ward 5,Paper,1343,Commercial
+09-28-2025,Ward 1,E-Waste,915,Institutional
+09-28-2025,Ward 1,Biodegradable,962,Commercial
+09-28-2025,Ward 1,Metal Waste,1147,Household
+09-28-2025,Ward 2,Paper,1078,Commercial
+09-28-2025,Ward 2,Plastic,1146,Commercial
+09-28-2025,Ward 2,Biodegradable,769,Commercial
+09-28-2025,Ward 3,Metal Waste,715,Household
+09-28-2025,Ward 3,Biodegradable,1322,Household
+09-28-2025,Ward 3,E-Waste,1712,Commercial
+09-28-2025,Ward 4,E-Waste,1173,Institutional
+09-28-2025,Ward 4,Biodegradable,1245,Commercial
+09-28-2025,Ward 4,Plastic,1762,Commercial
+09-28-2025,Ward 5,Plastic,502,Institutional
+09-28-2025,Ward 5,Metal Waste,1068,Commercial
+09-28-2025,Ward 5,Paper,283,Industrial
+10-05-2025,Ward 1,Plastic,1480,Industrial
+10-05-2025,Ward 1,E-Waste,1133,Commercial
+10-05-2025,Ward 1,Paper,1385,Household
+10-05-2025,Ward 2,Paper,691,Institutional
+10-05-2025,Ward 2,E-Waste,1762,Institutional
+10-05-2025,Ward 2,Plastic,1283,Industrial
+10-05-2025,Ward 3,Metal Waste,790,Commercial
+10-05-2025,Ward 3,Plastic,1909,Industrial
+10-05-2025,Ward 3,E-Waste,398,Commercial
+10-05-2025,Ward 4,Metal Waste,1115,Industrial
+10-05-2025,Ward 4,Paper,726,Household
+10-05-2025,Ward 4,Plastic,933,Industrial
+10-05-2025,Ward 5,Metal Waste,1216,Institutional
+10-05-2025,Ward 5,Plastic,925,Industrial
+10-05-2025,Ward 5,Paper,700,Household
+10-12-2025,Ward 1,Paper,271,Household
+10-12-2025,Ward 1,Glass,473,Industrial
+10-12-2025,Ward 1,Biodegradable,1543,Industrial
+10-12-2025,Ward 2,Plastic,301,Household
+10-12-2025,Ward 2,Glass,1615,Commercial
+10-12-2025,Ward 2,E-Waste,413,Commercial
+10-12-2025,Ward 3,Metal Waste,1895,Commercial
+10-12-2025,Ward 3,Plastic,791,Industrial
+10-12-2025,Ward 3,Glass,1309,Institutional
+10-12-2025,Ward 4,Glass,201,Household
+10-12-2025,Ward 4,Metal Waste,1000,Household
+10-12-2025,Ward 4,Paper,788,Institutional
+10-12-2025,Ward 5,Biodegradable,1909,Industrial
+10-12-2025,Ward 5,E-Waste,342,Industrial
+10-12-2025,Ward 5,Metal Waste,305,Commercial
+10-19-2025,Ward 1,Plastic,834,Industrial
+10-19-2025,Ward 1,Glass,208,Industrial
+10-19-2025,Ward 1,Metal Waste,1296,Commercial
+10-19-2025,Ward 2,Paper,1541,Institutional
+10-19-2025,Ward 2,Metal Waste,1541,Commercial
+10-19-2025,Ward 2,Glass,450,Commercial
+10-19-2025,Ward 3,Biodegradable,221,Industrial
+10-19-2025,Ward 3,Paper,1094,Commercial
+10-19-2025,Ward 3,Plastic,1350,Household
+10-19-2025,Ward 4,Biodegradable,1213,Institutional
+10-19-2025,Ward 4,Paper,286,Institutional
+10-19-2025,Ward 4,Metal Waste,1108,Household
+10-19-2025,Ward 5,E-Waste,949,Institutional
+10-19-2025,Ward 5,Biodegradable,884,Institutional
+10-19-2025,Ward 5,Paper,1956,Commercial
+10-26-2025,Ward 1,Biodegradable,1113,Commercial
+10-26-2025,Ward 1,Paper,861,Household
+10-26-2025,Ward 1,Plastic,1575,Institutional
+10-26-2025,Ward 2,E-Waste,234,Household
+10-26-2025,Ward 2,Paper,292,Industrial
+10-26-2025,Ward 2,Plastic,1430,Household
+10-26-2025,Ward 3,Paper,1156,Institutional
+10-26-2025,Ward 3,Metal Waste,603,Household
+10-26-2025,Ward 3,Glass,715,Institutional
+10-26-2025,Ward 4,Metal Waste,1146,Institutional
+10-26-2025,Ward 4,Biodegradable,1840,Institutional
+10-26-2025,Ward 4,Plastic,1473,Household
+10-26-2025,Ward 5,Biodegradable,1131,Industrial
+10-26-2025,Ward 5,Glass,494,Industrial
+10-26-2025,Ward 5,Metal Waste,954,Commercial
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
